@@ -4,6 +4,8 @@ A complete full-stack app on Cloudflare's edge — **user accounts, a database, 
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/flarelink-dev/cloudflare-edge-fullstack-starter)
 
+**[▶ Live demo](https://edge-fullstack-starter.jaan-f97.workers.dev/)**
+
 <!-- dash-content-start -->
 
 A single Cloudflare Worker that serves a React SPA and a JSON API on one origin. It demonstrates the three storage primitives you need for almost any app, each used the cost-efficient way:
